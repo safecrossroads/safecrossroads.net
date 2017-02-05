@@ -77,7 +77,7 @@ encoding: utf-8 # Make sure the encoding is right
 title: "Crossroads of the SAFE Network" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "SAFE Crossroads covers the technology, applications, ideas and people of SAFE Network, where SAFE stands for Secure Access For Everyone, with the keynote of Privacy, Security and Freedom for all." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://manager-weights-68108.netlify.com" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 disqus: "alembic-1"
