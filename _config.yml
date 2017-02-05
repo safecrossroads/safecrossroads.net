@@ -11,13 +11,9 @@
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
-- screenshot.png
 - LICENSE
-- CNAME
 - Gemfile
 - Gemfile.lock
-- demo/*
-- alembic-jekyll-theme.gemspec
 
 # 2. Installed Gems
 gems:
@@ -57,10 +53,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "https://unsplash.it/1300/400?image=1067"
+    # description: "My thoughts and ideas" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
@@ -81,9 +74,9 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Crossroads of the SAFE Network" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "SAFE Crossroads covers the technology, applications, ideas and people of SAFE Network, where SAFE stands for Secure Access For Everyone, with the keynote of Privacy, Security and Freedom for all." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
@@ -93,16 +86,14 @@ avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
   Blog: /blog/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  Resources: https://safenetwork.org
+  Contribute: /contribute/
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Twitter: https://twitter.com/safecrossroads
+  SoundCloud: https://soundcloud.com/safecrossroads
+  iTunes: https://itunes.apple.com/us/podcast/safe-crossroads-podcast/id997110283
 
 social_links:
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GooglePlus: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/safecrossroads
