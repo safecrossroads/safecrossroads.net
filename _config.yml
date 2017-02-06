@@ -27,7 +27,7 @@ gems:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate_path: posts/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
@@ -74,26 +74,40 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Crossroads of the SAFE Network" # Site name or title, also used in jekyll-seo-tag
+title: "SAFE Crossroads" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "SAFE Crossroads covers the technology, applications, ideas and people of SAFE Network, where SAFE stands for Secure Access For Everyone, with the keynote of Privacy, Security and Freedom for all." # Site description and default description, also used in jekyll-seo-tag
 url: "https://manager-weights-68108.netlify.com" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
-disqus: "alembic-1"
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Blog: /blog/
-  Resources: https://safenetwork.org
+  Posts: /posts/
+  Categories: /categories/
+  Subscribe: /subscribe/
   Contribute: /contribute/
+  Search: /search/
 
 navigation_footer:
-  Twitter: https://twitter.com/safecrossroads
-  SoundCloud: https://soundcloud.com/safecrossroads
-  iTunes: https://itunes.apple.com/us/podcast/safe-crossroads-podcast/id997110283
+  Subscribe: /subscribe/
+  Contribute: /contribute/
+  Search: /search/
 
 social_links:
   Twitter: https://twitter.com/safecrossroads
+  Email: mailto:simpleton@safecrossroads.net
+  Link: https://safenetwork.org
+
+sharing_links:
+  Twitter: "#1DA1F2"
+  facebook: "#3B5998"
+  Google+: "#DC4E41"
+  Pinterest: "#BD081C"
+  LinkedIn: "#0077B5"
+  tumblr: "#36465D"
+  Reddit: "#FF4500"
+  Hacker News: "#ff6600"
+  Designer News: "#2D72D9"
+  Email: ""

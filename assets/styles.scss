@@ -74,7 +74,7 @@ body {
 }
 
 .small {
-  padding-top: .6rem;
+  padding-top: .8rem;
   color: $color__site--captions;
   display: inline-block;
 }
@@ -157,10 +157,17 @@ body {
   }
 }
 
+.share {
+  .button {
+    margin-right: .3rem;
+  }
+}
+
 .aside {
   max-width: 100%;
   @include breakpoint(break-1) {
     max-width: 34%;
+    @include flex(1, 0, auto);
     opacity: 0.5;
     transition: opacity .1s;
     &:hover {
@@ -169,17 +176,32 @@ body {
   }
 }
 
+.section {
+  margin: 0;
+  &--category-index {
+    position: sticky;
+    top: 0;
+  }
+}
+
 
 // Lists
 .list {
-  &--posts {
+  &--posts,
+  &--results {
     list-style: none;
   }
-  &--nav {
+  &--nav,
+  &--categories {
     list-style: none;
   }
   .item--post {
     margin-left: 0;
+  }
+  &--categories {
+    .item {
+      margin-left: 0;
+    }
   }
 }
 
@@ -296,6 +318,7 @@ button,
 .button,
 input[type="text"],
 input[type="email"],
+input[type="search"],
 input[type="submit"],
 textarea {
   padding: .6rem 1.2rem;
@@ -347,6 +370,7 @@ a:hover:focus {
 
 input[type="text"],
 input[type="email"],
+input[type="search"],
 textarea {
   width: 100%;
   border: 1px solid $color__site--captions;

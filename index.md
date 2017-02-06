@@ -1,5 +1,5 @@
 ---
-title: New to this site? Welcome!
+title: Welcome!
 ---
 
 **Welcome to the new Internet, where Privacy, Security and Freedom are default settings.**
@@ -13,7 +13,7 @@ By all means, if you haven’t done so yet, listen to the first podcast. It’s 
 
 ### Start with [Episode 1]()
 
-![](/assets/TriTriLogoSN.png)
+![](/assets/safecrossroads.png)
 
 ### [SAFE Network School]()
 
