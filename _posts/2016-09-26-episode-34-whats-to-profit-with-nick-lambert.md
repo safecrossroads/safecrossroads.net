@@ -2,7 +2,8 @@
 title: Episode 34 - What's to Profit? with Nick Lambert
 category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/284786089
-topic: 11301
+topic_id: 11301
+redirect_from: /podcasts/safe-crossroads-podcast34-whats-to-profit-with-nick-lambert/
 ---
 
 #### In this Episode

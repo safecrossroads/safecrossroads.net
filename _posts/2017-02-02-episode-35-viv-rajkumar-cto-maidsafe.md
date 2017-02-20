@@ -1,8 +1,9 @@
 ---
-title: "Episode 35 - Viv Rajkumar, CTO MaidSafe"
+title: Episode 35 - Viv Rajkumar, CTO MaidSafe
 category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305850284
-topic: 12379
+topic_id: 12379
+redirect_from: /podcasts/safe-crossroads-podcast-35-viv-rajkumar-cto-maidsafe/
 ---
 
 #### In This Episode
@@ -20,4 +21,4 @@ Music for this episode: *SAFE Crossroads* is an original piece composed and perf
 - [Safenetwork.org--index to everything](http://safenetwork.org/)
 - [Community Forum](http://safenetforum.org/)
 - [MaidSafe company site](http://maidsafe.net)
-- [Technology & Choice #6, Chadrick Mahaffey on Crowd Founding Principles](http://Safecrossroads – Tc-06-edit-open-source-plus-reward-equals-freedom/)
+- [Technology & Choice #6, Chadrick Mahaffey on Crowd Founding Principles](https://technologyandchoice.com/2016/05/episode-6-chadrick-mahaffey-on-crowd-founding-fundamentals/)

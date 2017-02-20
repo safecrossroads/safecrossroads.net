@@ -30,21 +30,17 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: posts/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+  username: SAFEcrossroads # jekyll-seo-tag > Owners twitter username
 author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: John Ferguson # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/SAFEcrossroads
 
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+permalink: /:categories/:title/  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
@@ -78,8 +74,8 @@ title: "SAFE Crossroads" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "SAFE Crossroads covers the technology, applications, ideas and people of SAFE Network, where SAFE stands for Secure Access For Everyone, with the keynote of Privacy, Security and Freedom for all." # Site description and default description, also used in jekyll-seo-tag
 url: "https://manager-weights-68108.netlify.com" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/frabrunelle/safecrossroads.net"
+email: "simpleton@safecrossroads.net"
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
