@@ -8,4 +8,6 @@ redirect_from: /podcasts/safe-crossroads-podcast-episode-09/
 
 In this episode we talk to two Project SAFE Community members, James Lindsey and David McCauley, about their involvement in the project and why they are passionate to see it carried through into operation.
 
+<!-- more -->
+
 Music for this episode: _SAFE Crossroads_ and _Magic Words_, original pieces, composed and performed by Nicholas Koteskey of Two Faced Heroes

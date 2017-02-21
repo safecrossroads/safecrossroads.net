@@ -10,6 +10,8 @@ redirect_from: /podcasts/safe-crossroads-podcast-episode-10/
 
 Today we have the pleasure of speaking with Paige Peterson, who works for MaidSafe in the area of community and development outreach, and much more.
 
+<!-- more -->
+
 #### Magic Word
 
 Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's listener award distribution of LTBcoin. Listeners now have a full week from the release date to submit a magic word. The magic word for this episode must be submitted by 1pm Pacific Time on August 5, 2015. If you don't have a LTB account, it's easy and fun. Go to letstalkbitcoin.com and sign up.

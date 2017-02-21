@@ -10,6 +10,8 @@ redirect_from: /podcasts/safe-crossroad-podcast-33/
 
 We have a chat with Francis Brunelle, a returning guest, about the recent Alpha Release of the MaidSafe Client, and a lot more about the state and progress of the SAFE Network project.
 
+<!-- more -->
+
 #### Magic Word
 
 Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's listener award distribution of LTBcoin. Listeners now have a full week from the release date to submit a magic word. The magic word for this episode must be submitted by 6pm Pacific Time on August 23, 2016.
