@@ -24,3 +24,7 @@ It's coming fast! Listen in and get ahead of the curve!
 The **SAFE Network** is a rethinking of Internet design with Privacy, Security and Freedom built in. Each class in the SAFE Network School takes a section of the wiki documentation and goes deeper and wider on the subject, so that anybody who applies themselves can get a pretty good idea of how it accomplishes its goals.
 
 {% include button.html text="Listen to SAFE Network School" link="/safe-network-school/" %}
+
+### Recommended resources
+
+We highly recommend visiting the following websites: [safenetwork.org](https://safenetwork.org), [maidsafe.net](https://maidsafe.net) and [safenetforum.org](https://safenetforum.org).

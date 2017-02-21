@@ -28,10 +28,10 @@ gems:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: posts/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+jekyll-mentions: https://safenetforum.org/users # jekyll-mentions > service used when @replying
 twitter:
   username: SAFEcrossroads # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+author: SAFEcrossroads # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: John Ferguson # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
@@ -42,7 +42,7 @@ sass:
   style: compressed # Style compression
 permalink: /:categories/:title/  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: US/Central # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -94,7 +94,6 @@ navigation_footer:
 social_links:
   Twitter: https://twitter.com/safecrossroads
   Email: mailto:simpleton@safecrossroads.net
-  Link: https://safenetwork.org
 
 sharing_links:
   Twitter: "#1DA1F2"
