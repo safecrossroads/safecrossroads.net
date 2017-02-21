@@ -16,4 +16,4 @@ title: Subscribe
 
 ### Twitter
 
-{% include button.html text="Follow on Twitter&nbsp;" icon="twitter" link="https://itunes.apple.com/us/podcast/safe-crossroads-podcast/id997110283" %}
+{% include button.html text="Follow on Twitter&nbsp;" icon="twitter" link="https://twitter.com/SAFEcrossroads" %}
