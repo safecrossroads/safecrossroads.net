@@ -10,19 +10,31 @@ If so moved, any contribution you wish to make would be really appreciated.
 
 Thanks.
 
+#### Bitcoin
+
+Send bitcoins or MaidSafeCoins to the following address: [1C5ybJhszRA3Nm72kjEwBq4xbDCrfrLBeo](https://blockchain.info/address/1C5ybJhszRA3Nm72kjEwBq4xbDCrfrLBeo)
+
+<script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=1C5ybJhszRA3Nm72kjEwBq4xbDCrfrLBeo&amp;output=BTC"><img src="https://shapeshift.io/images/shifty/large_light_altcoins.png" class="ss-button"></a>
+
+#### LTBcoin
+
+LTBcoin address is: [1Kw7rLyVGfFmFNSWpUFT57YaYQBHtHB1E](https://blockchain.info/address/1Kw7rLyVGfFmFNSWpUFT57YaYQBHtHB1E)
+
 ### Correspondents and Content Contributors Welcome
 
 Having a forum to talk about and share my interests in the SAFE Network is great and I love it, but there’s plenty of action to share.
-For anyone who would like to contribute content to this site, be it an article, podcast, video or whatever you think might fit the theme and purpose, please send an email to simpleton@safecrossroads.net. If it’s ready to go, just send or link it. If you wish to discuss it first, this can certainly be arranged.
+For anyone who would like to contribute content to this site, be it an article, podcast, video or whatever you think might fit the theme and purpose, please send an email to <simpleton@safecrossroads.net>. If it’s ready to go, just send or link it. If you wish to discuss it first, this can certainly be arranged.
 
 I can work with you as an editor for written copy. I can incorporate audio news or interview segments into the title podcast, or post it under a separate title. I’m open to whatever ideas might forward the Purpose of this site. This is too much fun not to share, so if you have the desire, let’s see where it goes.
 We’ll be building the reach of this site and its content consistently, so it should be a great place to get your output consumed, especially as the SAFE Network catches hold and begins to expand in use.
 
 The proprietor retains full and sole discretion as to what is or is not posted on this site, based on his own judgement of what is appropriate. Content contributed does not entitle its creator to any compensation beyond being considered for distribution via this site and publication here if found suitable, though it will not be used otherwise without the creator’s explicit permission.
 
-Everything published on this site, except as otherwise attributed, is copyleft. See link for info on what that means.
+Everything published on this site, except as otherwise attributed, is [copyleft](https://en.wikipedia.org/wiki/Copyleft). See link for info on what that means.
 
 If you wish for your contribution to be handled differently, let me know in advance. Anything not explicitly agreed otherwise will be issued copyleft.
+
+![](/assets/img/copyleft.png)
 
 ### Purpose
 

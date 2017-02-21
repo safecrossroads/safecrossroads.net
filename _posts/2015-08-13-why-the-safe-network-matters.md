@@ -4,7 +4,7 @@ category: Articles
 topic_id: 4543
 ---
 
-### The Internet is broken, but a revolutionary technology that could fix it is coming.
+#### The Internet is broken, but a revolutionary technology that could fix it is coming.
 
 by **Daniel Morgan**
 
