@@ -8,7 +8,9 @@ redirect_from: /podcasts/safe-crossroads-podcast-31/
 
 #### In this Episode
 
-We're back again with Harmen Klink, talking about further innovations on the Decorum decentralized forum and social connection protocol. We talk about a web of trust function which will make the protocol very handy at evaluating one's connections and resisting unwanted connections. Also we talk about the Project Decorum crowdsale, and the value proposition behind it. And much more. The design of the SAFE Network presents challenges due to its security model, but it also presents opportunities to view things differently and accomplish things which are brand new.
+We're back again with Harmen Klink, talking about further innovations on the Decorum decentralized forum and social connection protocol. We talk about a web of trust function which will make the protocol very handy at evaluating one's connections and resisting unwanted connections. Also we talk about the Project Decorum crowdsale, and the value proposition behind it. And much more.
+
+The design of the SAFE Network presents challenges due to its security model, but it also presents opportunities to view things differently and accomplish things which are brand new.
 
 #### Magic Word
 

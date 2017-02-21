@@ -8,7 +8,15 @@ redirect_from: /podcasts/safe-crossroads-podcast-32/
 
 #### In this Episode
 
-David Irvine, Founder and lead developer of MaidSafe has faced a huge workload over the last couple of years, moving the SAFE Network towards launch. So much so that he hasn't recorded an in-depth interview in over two years. That changed today. In this episode he finally speaks--quite a lot, actually. Our two hour interview covers much of what has been going forward with the SAFE Network, the technical barriers, some of the huge breakthroughs, the community, and a lot more. Most of the second half of the interview deals with matters relating to a blog post being published at about the same time as this podcast (linked below), making full community disclosure about planned actions to reinforce capital availability to accelerate development and community outreach, a likely source of lively discussion on the SAFE Network Forum. Aside from all the wonderful data, perspectives and strategy disclosures, the interview is a great dose of David Irvine in person.
+David Irvine, Founder and lead developer of MaidSafe has faced a huge workload over the last couple of years, moving the SAFE Network towards launch. So much so that he hasn't recorded an in-depth interview in over two years. That changed today.
+
+<!-- more -->
+
+In this episode he finally speaks--quite a lot, actually. Our two hour interview covers much of what has been going forward with the SAFE Network, the technical barriers, some of the huge breakthroughs, the community, and a lot more.
+
+Most of the second half of the interview deals with matters relating to a blog post being published at about the same time as this podcast (linked below), making full community disclosure about planned actions to reinforce capital availability to accelerate development and community outreach, a likely source of lively discussion on the SAFE Network Forum.
+
+Aside from all the wonderful data, perspectives and strategy disclosures, the interview is a great dose of David Irvine in person.
 
 #### Magic Word
 
@@ -16,7 +24,7 @@ Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to 
 
 #### Music
 
-Music for this episode: *Arrival*, and "Magic Words" are original pieces composed and performed by Nicholas Koteskey of Two Faced Heroes
+Music for this episode: *Arrival*, and *Magic Words* are original pieces composed and performed by Nicholas Koteskey of Two Faced Heroes
 
 #### Links
 

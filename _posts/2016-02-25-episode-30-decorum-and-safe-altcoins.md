@@ -8,7 +8,11 @@ redirect_from: /podcasts/safe-crossroads-podcast-30/
 
 #### In this Episode
 
-Great news about the progress of the SAFE Network and imminent release of a Minimum Viable Product, then an interview with Harmen Klink, the developer of the Decorum (Decentralized forum) protocol, which will enable fully functional and flexible implementations for comments sections, forums, and so forth, on the decentralized SAFE Network. And in this interview, Harmen reveals the secret of fully secure, fully functional, mine-able tokens on SAFE. This is way beyond "just another way to make altcoins." This is truly a game-changing innovation you'll want to find out about.
+Great news about the progress of the SAFE Network and imminent release of a Minimum Viable Product, then an interview with Harmen Klink, the developer of the Decorum (Decentralized forum) protocol, which will enable fully functional and flexible implementations for comments sections, forums, and so forth, on the decentralized SAFE Network.
+
+<!-- more -->
+
+And in this interview, Harmen reveals the secret of fully secure, fully functional, mine-able tokens on SAFE. This is way beyond "just another way to make altcoins." This is truly a game-changing innovation you'll want to find out about.
 
 #### Magic Word
 

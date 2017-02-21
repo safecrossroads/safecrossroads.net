@@ -1,4 +1,5 @@
-{% for category in site.categories %}
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
 	{% assign category_name = category | first %}
 	<section class="section  typeset">
 		<h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>

@@ -83,7 +83,7 @@ a {
 
   // Heading level 4.
   h4, .delta {
-    @include sassline(delta, $headingtype, 2, 0, all);
+    @include sassline(delta, $headingtype, 2, 0.25, all);
   }
 
   // Heading level 5.

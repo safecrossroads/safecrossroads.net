@@ -11,10 +11,10 @@ Your host and proprietor is John Ferguson, the self-dubbed Simpleton of SAFE, be
 We’re convinced that the SAFE Network is going to make a huge splash in the world, and we’re anxious to get as many people on board as possible from the start.
 By all means, if you haven’t done so yet, listen to the first podcast. It’s designed to put everyone on the road together, new or old.
 
-### Start with [Episode 1]()
+### Start with [Episode 1](/podcasts/episode-1-what-is-the-safe-network-anyway/)
 
-![](/assets/safecrossroads.png)
+![](/assets/img/safecrossroads.png)
 
-### [SAFE Network School]()
+### [SAFE Network School](/safe-network-school/)
 
 The **SAFE Network** is a rethinking of Internet design with Privacy, Security and Freedom built in. Each class in the SAFE Network School takes a section of the wiki documentation and goes deeper and wider on the subject, so that anybody who applies themselves can get a pretty good idea of how it accomplishes its goals.
