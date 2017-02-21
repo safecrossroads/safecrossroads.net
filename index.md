@@ -13,8 +13,14 @@ By all means, if you haven’t done so yet, listen to the first podcast. It’s 
 
 ### Start with [Episode 1](/podcasts/episode-1-what-is-the-safe-network-anyway/)
 
-![](/assets/img/safecrossroads.png)
+Welcome to the first episode of the podcast at the Crossroads of the SAFE Network. The SAFE Network is the first truly grassroots Internet with **S**ecure **A**ccess **F**or **E**veryone, where Privacy, Security and Freedom are the defaults.
+
+It's coming fast! Listen in and get ahead of the curve!
+
+{% include button.html text="Listen to Episode 1" link="/podcasts/episode-1-what-is-the-safe-network-anyway/" %}
 
 ### [SAFE Network School](/safe-network-school/)
 
 The **SAFE Network** is a rethinking of Internet design with Privacy, Security and Freedom built in. Each class in the SAFE Network School takes a section of the wiki documentation and goes deeper and wider on the subject, so that anybody who applies themselves can get a pretty good idea of how it accomplishes its goals.
+
+{% include button.html text="Listen to SAFE Network School" link="/safe-network-school/" %}
