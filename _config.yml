@@ -74,7 +74,7 @@ title: "SAFE Crossroads" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "SAFE Crossroads covers the technology, applications, ideas and people of SAFE Network, where SAFE stands for Secure Access For Everyone, with the keynote of Privacy, Security and Freedom for all." # Site description and default description, also used in jekyll-seo-tag
 url: "https://safecrossroads.net" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/frabrunelle/safecrossroads.net"
+repo: "https://github.com/safecrossroads/safecrossroads.net"
 email: "simpleton@safecrossroads.net"
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
