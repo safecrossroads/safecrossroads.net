@@ -76,7 +76,7 @@ description: "SAFE Crossroads covers the technology, applications, ideas and peo
 url: "https://safecrossroads.net" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/safecrossroads/safecrossroads.net"
 email: "simpleton@safecrossroads.net"
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+favicon: "/assets/safecrossroads-apple-touch-icon.png"
 
 # 8. Site navigation
 navigation_header:
