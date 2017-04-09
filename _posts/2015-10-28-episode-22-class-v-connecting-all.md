@@ -6,8 +6,6 @@ topic_id: 5760
 redirect_from: /podcasts/safe-crossroads-podcast-22/
 ---
 
-#### In this Episode
-
 Class V of the School of the SAFE Network brings clarity on another component of the SAFE Network configuration which is critical to the autonomous functioning of the network.
 
 We explore some of the problems and solutions of peer-to-peer networking, and explore some of the key terminology necessary to communicating about it.

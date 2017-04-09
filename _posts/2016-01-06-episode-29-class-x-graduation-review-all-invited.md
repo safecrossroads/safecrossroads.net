@@ -6,8 +6,6 @@ topic_id: 6614
 redirect_from: /podcasts/safe-crossroads-podcast-29/
 ---
 
-#### In this Episode
-
 Come one, come all, to the last planned class of the SAFE Network School.
 
 We do a high-level overview of what we know about the SAFE Network in a way that even parents, friends and family of the proud graduates will be warmed with what they learn, and be proud of those who have worked so hard to get closer to the bare metal of this elegant technology.

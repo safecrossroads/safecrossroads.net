@@ -60,7 +60,7 @@ Biomimicry in computer systems is nothing new, but concepts like fault-tolerance
 
 “People talk about AI as building larger smarter computers (IBM Watson, etc.). My conjecture is that it’s not a large thing you build, it should be like ants. Lots of very small things with very few rules that are easily followed.”
 
-_David Irvine in his blog post “_[_Why do I keep going on about Ants and Nature_](http://metaquestions.me/2014/02/04/why-do-i-keep-going-on-about-ants-and-nature/)_”_
+_David Irvine in his blog post “_[_Why do I keep going on about Ants and Nature_](https://metaquestions.me/2014/02/04/why-do-i-keep-going-on-about-ants-and-nature/)_”_
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/960/1*osCtMuIwOJIJsZwMG2Jb1g.gif)
 

@@ -5,8 +5,6 @@ soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tr
 topic_id: 12933
 ---
 
-#### In This Episode
-
 Nick Lambert joins us with an update on development progress and the milestones recently passed, and expectations for the near future, as well as MaidSafe activities around the world.
 
 <!-- more -->

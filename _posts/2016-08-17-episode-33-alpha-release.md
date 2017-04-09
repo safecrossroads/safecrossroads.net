@@ -6,8 +6,6 @@ topic_id: 10807
 redirect_from: /podcasts/safe-crossroad-podcast-33/
 ---
 
-#### In this Episode
-
 We have a chat with Francis Brunelle, a returning guest, about the recent Alpha Release of the MaidSafe Client, and a lot more about the state and progress of the SAFE Network project.
 
 <!-- more -->

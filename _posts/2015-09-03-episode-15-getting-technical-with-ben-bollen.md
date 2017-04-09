@@ -6,8 +6,6 @@ topic_id: 5023
 redirect_from: /podcasts/safe-crossroads-podcast-episode-15/
 ---
 
-#### In this Episode
-
 Things are rocking at MaidSafe in Troon, and around the world, with the initial SAFE Network software installers just released. We talk with MaidSafe core developer Ben Bollen about the release and what it means (and what it doesn't mean), then go on to get technical about some very important improvements in the network architecture that are enabling incredible innovation as the project moves forward.
 
 The ants advance!

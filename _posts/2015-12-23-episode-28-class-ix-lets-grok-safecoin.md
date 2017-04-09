@@ -8,8 +8,6 @@ redirect_from: /podcasts/safe-crossroads-podcast-28/
 
 _**grok** [Martian]_ literally meaning "to drink" but taken to mean "to understand at a deep, intuitive level." (from the novel _Stranger in a Strange Land_, by Robert Heinlein, a story about a human raised by Martians)
 
-#### In this Episode
-
 Having explored the SAFE Network from end to end through our School series so far, in this Class we are finally ready let safecoin help spread our senses out through the SAFE Network as a whole. We can now begin to _grok_ SAFE in fullness.
 
 Now can we embrace some key aspects of the network that we've not yet been able to fully appreciate. We clarify and break down the types of data on the SAFE Network and start of get a grip on what can be done with them. We follow the life cycle of a safecoin and define clearly what a safecoin actually IS.

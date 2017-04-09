@@ -23,7 +23,7 @@ Transcript of this podcast available [here](https://www.slideshare.net/simpleton
 #### Links
 
 - [MaidSafe company site](https://maidsafe.net)
-- [David Irvine's idea blog](http://metaquestions.me)
+- [David Irvine's idea blog](https://metaquestions.me)
 - [SAFE Community Forum](https://safenetforum.org)
 
 #### Music Credit

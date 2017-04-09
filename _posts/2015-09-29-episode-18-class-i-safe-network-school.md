@@ -6,8 +6,6 @@ topic_id: 5366
 redirect_from: /podcasts/safe-crossroads-podcast-18/
 ---
 
-#### In this Episode
-
 We're happy to announce the opening of the Simpleton's School of the SAFE Network.
 
 Since the SAFE Network is being built on a very different combination of fundamentals than has ever been used before and because it is so intricate, it's not possible to just wade in and get a full picture of it without some work. This is especially true because the network is still in development and so can't be used and learned by experience, either.

@@ -6,8 +6,6 @@ topic_id: 5654
 redirect_from: /podcasts/safe-crossroads-podcast-21/
 ---
 
-#### In this Episode
-
 In Class IV of the SAFE Network School we get down to bedrock on one of the most important aspects of the SAFE Network. We have loads of fun, actually. It's back to school for sure, but also has a bright gem of entertainment to help bring the lesson home.
 
 With this material we are able to get our feet on solid ground on not only how the network organizes and administers so many intricate actions, but we see the foundations of the very different, but very powerful method of establishing consensus and truth within the SAFE Network.

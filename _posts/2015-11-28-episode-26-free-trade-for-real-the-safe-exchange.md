@@ -6,9 +6,9 @@ topic_id: 6189
 redirect_from: /podcasts/safe-crossroads-podcast-26/
 ---
 
-#### In this Episode
-
 History in the making. Exaggeration? You be the judge. This last week Daniel Dabek announced the release of the whitepaper on the new Safe Exchange. More than just a protocol, it is the core tool kit necessary to establish a decentralized contract marketplace, via which anyone will be capable of exchanging with anyone, anywhere, according to prearranged contractual conditions.
+
+<!-- more -->
 
 We discuss the current crowdsale, designed to raise the modest capital needed to finish development, but also to distribute governance of the exchange a much as possible amongst the future users of it.
 

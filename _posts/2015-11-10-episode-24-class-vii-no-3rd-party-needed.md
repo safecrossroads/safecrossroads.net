@@ -6,8 +6,6 @@ topic_id: 5967
 redirect_from: /podcasts/safe-crossroads-podcast-24/
 ---
 
-#### In this Episode
-
 Class VII of the School of the SAFE Network takes us to the realm of Self-Authentication, something else new to the world which will first appear with the SAFE Network, but will certainly become a standard for those who wish to have true control over their data and electronic relationships.
 
 It is all about you and the network. That's all. No "trusted" authority or administrator required. No fine print user agreements, wherein you agree to give the service provider access or privileges regarding your private data.

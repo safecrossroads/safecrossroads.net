@@ -6,9 +6,9 @@ topic_id: 5283
 redirect_from: /podcasts/safe-crossroads-podcast-17/
 ---
 
-#### In this Episode
-
 Another interview on The Crypto Show, talking more basics about the SAFE Network, and an interview with Will Gallo, member of the San Francisco SAFE Pod, regarding application--proposed as well as well developed--to run on top of the SAFE Network. The field for creation is wide open and waiting for talented coders to get busy.
+
+<!-- more -->
 
 #### Magic Word
 

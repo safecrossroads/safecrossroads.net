@@ -6,9 +6,7 @@ topic_id: 11301
 redirect_from: /podcasts/safe-crossroads-podcast34-whats-to-profit-with-nick-lambert/
 ---
 
-#### In this Episode
-
-Today we have an in-depth visit with Nick Lambert, COO of MaidSafe, covering a lot about where MaidSafe has been, where it's gotten to and where it's going. With the Bank to the Future equity crowd funding pitch in play, we dig in to find out how MaidSafe, as an open source, very altruistically oriented company, is likely to be profitable enough to invest in. This is a very well rounded, very informative coverage of MaidSafe and the SAFE Network, accessible to most anyone whether they are familiar with the SAFE Network or not. Whether you're looking to be directly involved on an equity level or not, frank questions are asked and answered, and you may get a very new view of this project.
+Today we have an in-depth visit with Nick Lambert, COO of MaidSafe, covering a lot about where MaidSafe has been, where it's gotten to and where it's going.<!-- more --> With the Bank to the Future equity crowd funding pitch in play, we dig in to find out how MaidSafe, as an open source, very altruistically oriented company, is likely to be profitable enough to invest in. This is a very well rounded, very informative coverage of MaidSafe and the SAFE Network, accessible to most anyone whether they are familiar with the SAFE Network or not. Whether you're looking to be directly involved on an equity level or not, frank questions are asked and answered, and you may get a very new view of this project.
 
 #### Magic Word
 

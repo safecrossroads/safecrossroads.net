@@ -6,8 +6,6 @@ topic_id: 6057
 redirect_from: /podcasts/safe-crossroads-podcast-25/
 ---
 
-#### In this Episode
-
 We take an aside from the SAFE Network School this week due to time constraints. But we do take a bit of time to visit with Francis Brunelle from the Montreal SAFE Pod and get some insights about app development on the SAFE Network. The doors are open to those who are ready to start making meaningful apps for the network.
 
 #### Magic Word

@@ -6,8 +6,6 @@ topic_id: 4919
 redirect_from: /podcasts/safe-crossroads-podcast-episode-14/
 ---
 
-#### In this Episode
-
 Your host and Max Hernandez, author of _Thieves Emporium_, take time to explore the new frontier, the electronic frontier, where people have new choices. We cover aspect of this gripping and educational tale, and then turn to utilize Max's knowledge and experience to examine the potential effects of the SAFE Network and similar technologies on the shape and form of civilization, and the experiences of individuals faced with different choices and new possibilities for navigating their way through life.
 
 You'll also find out how to read the book for free, or purchase it if you wish to contribute to Max's work.

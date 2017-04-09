@@ -6,8 +6,6 @@ topic_id: 5451
 redirect_from: /podcasts/safe-crossroads-podcast-19/
 ---
 
-#### In this Episode
-
 Class II of the SAFE Network School takes us deeper. We probe down and start to pull apart the great intricacy of the SAFE Network by closely examining the key elements that make it work. But not too fast or overwhelmingly. You'll be surprised how understandable it is when guided by a Simpleton who has already done most of the brain-warping exploration, so that you don't have to warp YOUR head so much.
 
 Come along as we start to peel apart the "secrets" of how the SAFE Network is designed and why it is so powerful. There are no secrets, actually. It just takes a little patience, perhaps some repetition. But it's worth it!

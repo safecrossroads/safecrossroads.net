@@ -6,8 +6,6 @@ topic_id: 4659
 redirect_from: /podcasts/safe-crossroads-podcast-episode-11/
 ---
 
-#### In this Episode
-
 First off we start this episode with several pieces very encouraging news from the MaidSafe development team.
 
 Then we have a chat with one of the most active Project SAFE community members, Francis Brunelle, from Montreal, Canada. Francis hosts the largest SAFE Network meet-up in the world and is extremely active pursuing various projects related to forwarding the SAFE Network, before and after launch. He also has other interests which he is working on, including helping the Bitcoin community in Montreal. He's been of immense help to your host and to countless others, in and out of Project SAFE. He definitely exemplifies an individual who puts community in action.

@@ -6,8 +6,6 @@ topic_id: 4581
 redirect_from: /podcasts/safe-crossroads-podcast-episode-10/
 ---
 
-#### In this Episode
-
 Today we have the pleasure of speaking with Paige Peterson, who works for MaidSafe in the area of community and development outreach, and much more.
 
 <!-- more -->

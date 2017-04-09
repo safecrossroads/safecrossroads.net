@@ -6,8 +6,6 @@ topic_id: 6285
 redirect_from: /podcasts/safe-crossroads-podcast-27/
 ---
 
-#### In this Episode
-
 First off its some Simpleton perspective on the Safe Exchange, followed by answering some listener questions.
 
 Then it's full bore into Class VIII of the SAFE Network School, examining the key persona types and functions in the Vaults that form the heart of the SAFE Network. This one may be a bit of brain work, but it's worth it.

@@ -6,9 +6,9 @@ topic_id: 5134
 redirect_from: /podcasts/safe-crossroads-podcast-16/
 ---
 
-#### In this Episode
-
 René De Polder is very involved in a number of projects in the crypto space, most especially the SAFE Network. He shares his thoughts and experiences as a participant in various projects and his experiences as a forum moderator. He also has some great insights as to the expansion of technical progress and the SAFE Network in particular.
+
+<!-- more -->
 
 #### Magic Word
 

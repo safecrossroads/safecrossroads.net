@@ -6,8 +6,6 @@ topic_id: 5526
 redirect_from: /podcasts/safe-crossroads-podcast-20/
 ---
 
-#### In this Episode
-
 In Class III of the SAFE Network School we break down some of the underlying computer technology needed to get a better grip on why the SAFE Network can do what it is designed to do. We take a closer look at the Vault structure and get an understanding of what a distributed hash table is about, and much more. Find out what David Irvine has to say about how to go about understanding the technology of the SAFE Network, from his years of experience telling others about it.
 
 Come along as we start to peel apart the "secrets" of how the SAFE Network is designed and why it is so powerful. There are no secrets, actually. It just takes a little patience, perhaps some repetition. But it's worth it!

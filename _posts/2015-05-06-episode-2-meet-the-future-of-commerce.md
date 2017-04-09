@@ -16,7 +16,7 @@ If you get something out of the podcast, or any other post for that matter, plea
 
 - [Infinity Algorithms Home](http://www.infinityalgorithms.com/)
 - [MaidSafe company site](http://maidsafe.net)
-- [David Irvine’s idea blog](http://metaquestions.me)
+- [David Irvine’s idea blog](https://metaquestions.me)
 - [SAFE Community Forum](http://safenetforum.org)
 
 #### Music Credit

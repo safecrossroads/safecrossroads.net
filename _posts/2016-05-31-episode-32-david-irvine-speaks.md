@@ -6,8 +6,6 @@ topic_id: 9557
 redirect_from: /podcasts/safe-crossroads-podcast-32/
 ---
 
-#### In this Episode
-
 David Irvine, Founder and lead developer of MaidSafe has faced a huge workload over the last couple of years, moving the SAFE Network towards launch. So much so that he hasn't recorded an in-depth interview in over two years. That changed today.
 
 <!-- more -->

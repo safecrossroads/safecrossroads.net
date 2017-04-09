@@ -6,8 +6,6 @@ topic_id: 7339
 redirect_from: /podcasts/safe-crossroads-podcast-30/
 ---
 
-#### In this Episode
-
 Great news about the progress of the SAFE Network and imminent release of a Minimum Viable Product, then an interview with Harmen Klink, the developer of the Decorum (Decentralized forum) protocol, which will enable fully functional and flexible implementations for comments sections, forums, and so forth, on the decentralized SAFE Network.
 
 <!-- more -->
