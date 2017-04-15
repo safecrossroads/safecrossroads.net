@@ -31,7 +31,7 @@ paginate_path: posts/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://safenetforum.org/users # jekyll-mentions > service used when @replying
 twitter:
   username: SAFEcrossroads # jekyll-seo-tag > Owners twitter username
-author: SAFEcrossroads # jekyll-seo-tag > default author
+author: John Ferguson # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: John Ferguson # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
