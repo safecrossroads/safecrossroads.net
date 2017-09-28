@@ -1,11 +1,13 @@
 ---
-title: Episode 37 - SAFE Network, Alpha 2 release, with Mobile
+title: Episode 37 - SAFE Network, Alpha 2 Release, with Mobile
 category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344215593
 topic_id: 13333
 ---
 
 Nick Lambert joins us with to talk about the new Alpha 2 network just released by MaidSafe, as well as other aspects of the network development and what differentiates what MaidSafe is developing from all other existing projects.
+
+<!-- more -->
 
 #### Music
 
