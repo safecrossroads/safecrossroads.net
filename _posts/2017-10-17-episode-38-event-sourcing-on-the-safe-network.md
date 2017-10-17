@@ -9,7 +9,7 @@ With the SAFE Network Alpha 2 release progressing forward with interfaces stabil
 
 Today we have a very interesting talk with Edward Holst, Software Architect and Lead Developer for a small fintech firm in Sweden. In his spare time he has begun to explore the guts of the SAFE Network and see the huge advantages SAFE will have for hosting the type of Event-Sourced databases he is familiar with. 
 
-We explore that area of tech, as well as getting a feel for where SAFE is currently at from the perspective of a seasoned developer. 
+We explore that area of tech, as well as getting a feel for where SAFE is at currently from the perspective of a seasoned developer. 
 
 <!-- more -->
 
