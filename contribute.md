@@ -16,10 +16,6 @@ Send bitcoins or MaidSafeCoins to the following address: [1C5ybJhszRA3Nm72kjEwBq
 
 <script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=1C5ybJhszRA3Nm72kjEwBq4xbDCrfrLBeo&amp;output=BTC"><img src="https://shapeshift.io/images/shifty/large_light_altcoins.png" class="ss-button"></a>
 
-#### LTBcoin
-
-LTBcoin address is: [1Kw7rLyVGfFmFNSWpUFT57YaYQBHtHB1E](https://blockchain.info/address/1Kw7rLyVGfFmFNSWpUFT57YaYQBHtHB1E)
-
 ### Correspondents and Content Contributors Welcome
 
 Having a forum to talk about and share my interests in the SAFE Network is great and I love it, but there’s plenty of action to share.
