@@ -1,8 +1,10 @@
+---
 title: Episode 39 -  More on SAFE Apps, with Gabriel Vignotti
 category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348299427
 topic_id: 
 ---
+
 The SAFE Network is a huge software infrastructure project which is currently in Alpha 2, a network of distributed nodes, hosted on cloud servers for MaidSafe as the many intricacies of the architecture are fine tuned. A future iteration will return to nodes hosted by external participants at home, but Alpha 2 exposes a stable set of interfaces which developers can use learn how the network functions and how to build applications for it.
   
 Today we talk with Gabriel Vignotti of Cordoba, Argentina, who is both an independent developer working on apps to run on the SAFE Network, and also a contractor with MaidSafe, working on front-end development. 
