@@ -9,6 +9,8 @@ The SAFE Network is a huge software infrastructure project which is currently in
   
 Today we talk with Gabriel Vignotti of Cordoba, Argentina, who is both an independent developer working on apps to run on the SAFE Network, and also a contractor with MaidSafe, working on front-end development. 
 
+<!-- more -->
+
 ####Music
 
 Music for this episode: *Safe Crossroads Beta*, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
