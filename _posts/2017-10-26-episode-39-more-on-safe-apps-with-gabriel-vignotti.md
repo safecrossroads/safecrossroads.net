@@ -11,11 +11,11 @@ Today we talk with Gabriel Vignotti of Cordoba, Argentina, who is both an indepe
 
 <!-- more -->
 
-####Music
+#### Music
 
 Music for this episode: *Safe Crossroads Beta*, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
 
-####Links
+#### Links
 
 [Safenet Forum](https://safenetforum.org/)
 
