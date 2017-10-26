@@ -7,7 +7,7 @@ topic_id: 17621
 
 The SAFE Network is a huge software infrastructure project which is currently in Alpha 2, a network of distributed nodes, hosted on cloud servers for MaidSafe as the many intricacies of the architecture are fine tuned. A future iteration will return to nodes hosted by external participants at home, but Alpha 2 exposes a stable set of interfaces which developers can use learn how the network functions and how to build applications for it.
   
-Today we talk with Gabriel Vignotti of Cordoba, Argentina, who is both an independent developer working on apps to run on the SAFE Network, and also a contractor with MaidSafe, working on front-end development. 
+Today we talk with Gabriel Viganotti of Cordoba, Argentina, who is both an independent developer working on apps to run on the SAFE Network, and also a contractor with MaidSafe, working on front-end development. 
 
 <!-- more -->
 
