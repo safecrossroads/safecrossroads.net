@@ -1,5 +1,5 @@
 ---
-title: Episode 39 -  More on SAFE Apps, with Gabriel Vignotti
+title: Episode 39 -  More on SAFE Apps, with Gabriel Viganotti
 category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348299427
 topic_id: 17621
