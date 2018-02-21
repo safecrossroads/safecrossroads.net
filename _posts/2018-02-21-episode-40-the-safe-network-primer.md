@@ -1,7 +1,7 @@
 ---
 title: Episode 40 -  The SAFE Network Primer
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/403150899
-topic_id: 
+topic_id: 21778
 ---
 
 One of the main problems in talking about the SAFE Network is understanding (1) the enormous scope of the project, (2) the various specific innovations it represents, (3) how those innovations interrelate in the overall system, and (4) why the approach is fundamentally different than pretty much anything else that is being attempted. 
