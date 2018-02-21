@@ -10,11 +10,13 @@ Regardless of the technical level of the enquirer, Project SAFE has lacked a rea
 
 In this episode we interview the originators and main contributors to the recently released SAFE Network Primer and give some very good insights to what the SAFE Network is about, why it's important and how to more easily approach and understanding of how it is designed. 
 
-####Music
+<!-- more -->
+
+#### Music
 
 Music for this episode: *Safe Crossroads Beta*, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
 
-####Links
+#### Links
 
 [SAFE Network Primer](http://safenetworkprimer.com/)
 
