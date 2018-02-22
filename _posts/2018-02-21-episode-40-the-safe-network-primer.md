@@ -4,7 +4,7 @@ soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tr
 topic_id: 21778
 ---
 
-One of the main problems in talking about the SAFE Network is understanding (1) the enormous scope of the project, (2) the various specific innovations it represents, (3) how those innovations interrelate in the overall system, and (4) why the approach is fundamentally different than pretty much anything else that is being attempted. 
+The main problems in talking about the SAFE Network are understanding (1) the enormous scope of the project, (2) the various specific innovations it represents, (3) how those innovations interrelate in the overall system, and (4) why the approach is fundamentally different than pretty much anything else that is being attempted. 
 
 Regardless of the technical level of the enquirer, Project SAFE has lacked a really good landing place to begin exploration into it. 
 
