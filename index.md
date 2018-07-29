@@ -27,4 +27,4 @@ The **SAFE Network** is a rethinking of Internet design with Privacy, Security a
 
 ### Recommended resources
 
-We highly recommend visiting the following websites: [safenetwork.org](https://safenetwork.org), [maidsafe.net](https://maidsafe.net) and [safenetforum.org](https://safenetforum.org).
+We highly recommend visiting the following websites: [safenetwork.tech](https://safenetwork.tech),[safenetwork.org](https://safenetwork.org), [maidsafe.net](https://maidsafe.net) and [safenetforum.org](https://safenetforum.org).
