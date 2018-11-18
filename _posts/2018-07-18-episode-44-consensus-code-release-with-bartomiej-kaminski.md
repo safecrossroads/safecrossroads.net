@@ -1,5 +1,6 @@
 ---
 title: Episode 44 - PARSEC Consensus Code Release, with Bartłomiej Kamiński
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473643423
 topic_id: 24577
 ---
