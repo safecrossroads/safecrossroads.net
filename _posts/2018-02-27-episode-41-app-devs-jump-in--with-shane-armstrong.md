@@ -1,5 +1,6 @@
 ---
 title: Episode 41 -  App Devs Jump In, with Shane Armstrong
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/405720135
 topic_id: 
 ---
