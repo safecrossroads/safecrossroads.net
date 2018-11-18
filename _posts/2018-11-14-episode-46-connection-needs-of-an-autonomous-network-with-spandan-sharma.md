@@ -1,5 +1,6 @@
 ---
 title: Episode 46 - Connection Needs of an Autonomous Network, with Spandan Sharma
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/529616478
 topic_id: 26266
 ---
