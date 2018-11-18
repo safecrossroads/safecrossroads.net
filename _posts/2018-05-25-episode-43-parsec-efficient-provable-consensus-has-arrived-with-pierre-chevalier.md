@@ -1,5 +1,6 @@
 ---
 title: Episode 43 - PARSEC - Efficient, Provable Consensus has Arrived, with Pierre Chevalier
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/449175531
 topic_id: 23705
 ---
