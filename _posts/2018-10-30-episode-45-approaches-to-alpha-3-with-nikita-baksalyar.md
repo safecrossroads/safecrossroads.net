@@ -1,5 +1,6 @@
 ---
 title: Episode 45 - Approaches to Alpha 3, with Nikita Baksalyar
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/522509232
 topic_id: 26051
 ---
