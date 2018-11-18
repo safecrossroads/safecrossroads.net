@@ -1,5 +1,6 @@
 ---
 title: Episode 42 - SAFE DevCon 2018 Highlights, with Dug Campbell
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/435798498
 topic_id: 23192
 ---
