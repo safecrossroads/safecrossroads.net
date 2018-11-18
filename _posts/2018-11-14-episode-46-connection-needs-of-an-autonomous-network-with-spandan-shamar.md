@@ -1,10 +1,10 @@
 ---
-title: Episode 46 - Connection Needs of an Autonomous Network, with Spandan Shamar
+title: Episode 46 - Connection Needs of an Autonomous Network, with Spandan Sharma
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/529616478
 topic_id: 26266
 ---
 
-Our guest today is Spandan Shamar from MaidSafe. We go over the results of the second community testing of Crust, the automated peer-to-peer connection library being developed by MaidSafe for the SAFE Network, and available for open source use by other P2P projects as they find useful. 
+Our guest today is Spandan Sharma from MaidSafe. We go over the results of the second community testing of Crust, the automated peer-to-peer connection library being developed by MaidSafe for the SAFE Network, and available for open source use by other P2P projects as they find useful. 
 
 In looking at all that the upper network layer needs the Crust connection level to do, we get a peek at the Routing level, which is the heart of the SAFE Network structure. 
 
