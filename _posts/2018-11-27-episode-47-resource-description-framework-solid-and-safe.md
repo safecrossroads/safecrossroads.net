@@ -6,9 +6,9 @@ topic_id:
 
 Simpleton says, "We go a bit geeky on this one, but in a way that should be very accessible to most anyone."
 
-Our guests on this episode are Josh Wilson and Gabriel Viganotti. Both are front-end developers for MaidSafe, working Resource Description Framework (RDF) in a number of forms, to enhance the uses of the SAFE Network.
+Our guests on this episode are Josh Wilson and Gabriel Viganotti. Both are front-end developers for MaidSafe, working with Resource Description Framework (RDF) in a number of forms, to enhance the uses of the SAFE Network.
 
-We really get down to what RDF is, how it relates to Linked Data and the Socially Linked Data (SOLID) project, and other use cases that are quite creating a real revolution in how we manage data, making it both more useful as well as returning control of users' data to users. 
+We really get down to what RDF is, how it relates to Linked Data and the Socially Linked Data (SOLID) project, and other use cases that are creating a real revolution in how we manage data, making it both more useful as well as returning control of users' data to users. 
 
 Your host learned a lot. Hope you find it useful.
 
