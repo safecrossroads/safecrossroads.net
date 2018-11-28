@@ -1,7 +1,7 @@
 ---
 title: Episode 47 - Resource Description Framework, SOLID and SAFE
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/536583930
-topic_id: 
+topic_id: 26440
 ---
 
 Simpleton says, "We go a bit geeky on this one, but in a way that should be very accessible to most anyone."
