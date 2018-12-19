@@ -1,7 +1,7 @@
 ---
 title: Episode 49 - What's so Special About the SAFE Browser?
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/547484862
-topic_id: 
+topic_id: 26808
 ---
 
 MaidSafe just released a completely in-house version of the SAFE Browser with some very cutting-edge features and toggles to explore experimental features. It's still rough-cut,as browser experiences go, but it opens the door to some very advanced development options as the SAFE Network matures toward readiness for launch.
