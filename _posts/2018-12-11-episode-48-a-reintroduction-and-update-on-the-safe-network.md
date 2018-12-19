@@ -1,7 +1,7 @@
 ---
 title: Episode 48 - A Reintroduction and Update on the SAFE Network, with Dug Campbell
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/543680139
-topic_id: 
+topic_id: 26722
 ---
 
 I've been wanting to do an overview of the SAFE Network for some time, as a sort of new introduction, an update on where the project has currently gotten to, and a view of what's ahead. 
