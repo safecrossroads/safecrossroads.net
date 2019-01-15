@@ -1,7 +1,7 @@
 ---
 title: Episode 50 - Native Android Development for SAFE, with Lionel Faber
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559416639
-topic_id: 26808
+topic_id: 
 ---
 
 As the various parts of SAFE Network development come together, facility for mobile access to and use of the network becomes a greater priority. Most individuals now use mobile devices for a large part, if not all, of their internet access. 
