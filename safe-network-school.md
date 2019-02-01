@@ -4,7 +4,9 @@ title: SAFE Network School
 
 The **SAFE Network** is a rethinking of Internet design with Privacy, Security and Freedom built in. Each class in the SAFE Network School takes a section of the wiki documentation and goes deeper and wider on the subject, so that anybody who applies themselves can get a pretty good idea of how it accomplishes its goals.
 
-The Simpleton bangs his head against the intricacies of the technology until simplicities fall out, so you don't have to. Companion materials include the system materials of the [SAFE Network Wiki](https://safenetwork.wiki/en/Main_Page) and [Glossary](https://safenetwork.wiki/en/Glossary). We recommend that you cycle through the classes a few times. This is the place to go if you want the fast track to the big picture, even if you _are_ a geek!
+The Simpleton bangs his head against the intricacies of the technology until simplicities fall out, so you don't have to. Companion materials include the system materials of the [SAFE Network Wiki](https://web.archive.org/web/20170409130643/https://safenetwork.wiki/en/Main_Page) and [Glossary](https://web.archive.org/web/20161027125026/https://safenetwork.wiki/en/Glossary). We recommend that you cycle through the classes a few times. This is the place to go if you want the fast track to the big picture, even if you _are_ a geek! 
+
+PLEASE NOTE: Since the time this podcast series was produced, MaidSafe has deprecated the Wiki and Glossary. The links above are from the Internet Archive and are provided as contemporaneous reference used when the podcasts were made. While some aspects represented in these materials have evolved with implementation, the Wiki and these podcasts still provide a valid and useful view of the overall design of the SAFE Network.
 
 ### [Class I, SAFE Network School](/podcasts/episode-18-class-i-safe-network-school/)
 
