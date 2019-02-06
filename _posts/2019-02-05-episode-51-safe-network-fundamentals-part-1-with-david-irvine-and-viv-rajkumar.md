@@ -1,7 +1,7 @@
 ---
 title: Episode 52 - SAFE Network Fundamentals, Part 2, with David Irvine and Viv Rajkumar
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/570895926
-topic_id: 
+topic_id: 27408
 ---
 
 This is part 2 of a wide ranging discussion about the SAFE Network, with the two people most familiar with all aspects of it, MaidSAFE's Founder and CEO, David Irvine and CTO, Viv Rajkumar.
