@@ -2,9 +2,13 @@
 title: Subscribe
 ---
 
-### Atom feed
+### Posts feed
 
-{% include button.html text="Subscribe via Atom&nbsp;" icon="rss" link="/feed.xml" %}
+{% include button.html text="Subscribe via RSS&nbsp;" icon="rss" link="/feed.xml" %}
+
+### Podcasts feed
+
+{% include button.html text="Subscribe via RSS&nbsp;" icon="rss" link="https://feeds.soundcloud.com/users/soundcloud:users:146674868/sounds.rss" %}
 
 ### Google Play Music
 
