@@ -8,11 +8,11 @@ This is part 2 of a wide ranging discussion about the SAFE Network, with the two
 
 To guide our discussion we focused on the 21 Fundamentals of the SAFE Network as linked below. Amongst many other great insights, in this section David goes briefly over each fundamental and summarizes where each stands -- i.e., what's done and what is yet to be done.
 
-####Music
+#### Music
 
 *Safe Crossroads Beta*, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
 
-####Links
+#### Links
 
 [The Fundamentals of the SAFE Network](https://safenetforum.org/t/safe-network-fundamentals-context/25352)
 
@@ -21,5 +21,3 @@ To guide our discussion we focused on the 21 Fundamentals of the SAFE Network as
 [All the encryption layers for SAFEnet](https://safenetforum.org/t/all-the-encryption-layers-for-safenet/2270)  -- Very useful forum post
 
 [SAFE Network School](https://safecrossroads.net/safe-network-school/) -- A SAFE Crossroads Series
-
-

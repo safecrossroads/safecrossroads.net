@@ -10,11 +10,11 @@ Helping us get a feel for this step forward are two of the MaidSafe front-end de
 
 Understanding where the SAFE Browser has come from, where it is and where it's going can give one new insight and a real feel for why SAFE Network development is really in a field of its own.
 
-####Music
+#### Music
 
 Safe Crossroads Beta, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes
 
-####Links
+#### Links
 
 [Dynamic Membership](https://safenetforum.org/t/new-video-blog-post-dynamic-membership/26724%20)- Text and Video
 
