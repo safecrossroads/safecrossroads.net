@@ -1,5 +1,6 @@
 ---
 title: Episode 51 - SAFE Network Fundamentals, Part 1, with David Irvine and Viv Rajkumar
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/568256928
 topic_id: 27367
 ---
