@@ -1,5 +1,6 @@
 ---
 title: Episode 49 - What's so Special about the SAFE Browser?
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/547484862
 topic_id: 26808
 ---
