@@ -1,5 +1,6 @@
 ---
 title: Episode 47 - Resource Description Framework, SOLID and SAFE
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/536583930
 topic_id: 26440
 ---
