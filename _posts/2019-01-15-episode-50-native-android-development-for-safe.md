@@ -1,5 +1,6 @@
 ---
 title: Episode 50 - Native Android Development for SAFE, with Lionel Faber
+category: Podcasts
 soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559416639
 topic_id: 27192
 ---
