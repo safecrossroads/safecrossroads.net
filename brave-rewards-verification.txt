@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: safecrossroads.net
-Token: f2e030bf837687b4127d578ab396e2036204352460c5b3b40b24dd34e5447239
