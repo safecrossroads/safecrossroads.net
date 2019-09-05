@@ -1,7 +1,7 @@
 ---
 title: Episode 40 -  The SAFE Network Primer
 category: Podcasts
-soundcloud: https://www.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/403150899
+soundcloud: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/403150899
 topic_id: 21778
 ---
 
